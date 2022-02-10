@@ -1,1 +1,2 @@
 Add first text in feature
+Add second text
