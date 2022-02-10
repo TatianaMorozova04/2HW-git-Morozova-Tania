@@ -1,3 +1,4 @@
 Some text
 Text for first conflict in main
 Text for second conflict in main
+Add some text for third conflict
