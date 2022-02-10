@@ -1,2 +1,3 @@
 Add first text in feature
 Add second text
+Add first text for rebase
